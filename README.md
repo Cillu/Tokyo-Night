@@ -1,14 +1,12 @@
 
-<h1 align="center">Tokyo Night</h1>
+<h1 align="center">Tokyo Night - Revamped</h1>
 
-![](https://github.com/Dyzean/Tokyo-Night/blob/main/assets/preview.png?raw=true)
+![](/assets/preview.png)
 
-<p align="center">A clean, dark, Discord theme based on <a href="https://github.com/enkia/tokyo-night-vscode-theme">Tokyo Night</a> colorscheme.</p>
-
+<p align="center">A revamped and maintained version of Tokyo Night by Dyzean.<p/>
 
 ## Note
-This theme is no longer maintained by the original creator - [Dyzean](https://github.com/Dyzean). This is a fork of the project, which may be maintained.
-
+This theme is no longer maintained by the original creator - [Dyzean](https://github.com/Dyzean). This is a revamped version of the project.
 ## Credits
 
 ### My credits
