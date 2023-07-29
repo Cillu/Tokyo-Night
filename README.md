@@ -7,7 +7,7 @@
 
 
 ## Note
-This theme is no longer maintained by the original creator - [Dyzean](https://github.com/Dyzean). This is just a personal fork of the project.
+This theme is no longer maintained by the original creator - [Dyzean](https://github.com/Dyzean). This is a fork of the project, which may be maintained.
 
 ## Credits
 
