@@ -6,18 +6,8 @@
  * @authorId 2354831939099688962
  */
 
-/* DONT TOUCH THIS!!! */
+/* Do not touch this. */
 @import url("https://dyzean.github.io/Tokyo-Night/main.css");
-
-/*  Read this before editing stuff!!!
-*
-*   > To comment or uncomment a line you need to put those "/" and "*" characters as you can see at the beginning and ending of my comments.
-*      (You don't need to put a * at each line like I do, it's just for readability). See more here : https://developer.mozilla.org/en-US/docs/Web/CSS/Comments
-*
-*   > You can play with the values and see how it goes, don't delete "px" after the value if you don't have knowledges in CSS.
-*
-*   > To change the colors, replace the HEX code with the one you picked here : https://htmlcolorcodes.com
-*/
 
 /* ====== Optional Addons ====== */
 @import url("https://dyzean.github.io/Tokyo-Night/addons/revert-rebrand.css");
@@ -31,25 +21,26 @@
 /* Syntax Highlight, get hljs styling with Tokyo Night scheme (Enabled by default) */
 @import url("https://dyzean.github.io/Tokyo-Night/addons/syntax-highlight.css");
 
-/* Username Background, get colorful background behind username on chat, works best with Monospace addon. (Disabled by default) */
-/* @import url("https://dyzean.github.io/Tokyo-Night/addons/username-background.css"); */
+/* Username Background, get colorful background behind username on chat, works best with Monospace addon. (Disabled by default) 
+ @import url("https://dyzean.github.io/Tokyo-Night/addons/username-background.css"); */
 
-/* Mac Like Titlebar (windows only), get mac style titlebar on windows client (Enabled by default) */
-
-/* @import url("https://dyzean.github.io/Tokyo-Night/addons/mac-titlebar.css"); */
+/* Mac Like Titlebar (windows only), get mac style titlebar on windows client (Disabled by default)
+ @import url("https://dyzean.github.io/Tokyo-Night/addons/mac-titlebar.css"); */
 
 /* Compact Mode, hide some UI part on specific windows size,
   <920px Channel sidebar and member list get hidden, <600px Chat window only. (Disabled by default) */
 /* @import url("https://dyzean.github.io/Tokyo-Night/addons/compact-mode.css"); */
 
-/* Monospace, use monospaced font (JetBrains Mono) instead the default one (Disabled by default) */
-/* @import url("https://dyzean.github.io/Tokyo-Night/addons/monospace-fonts.css"); */
+/* Monospace, use monospaced font (JetBrains Mono) instead the default one (Disabled by default) 
+@import url("https://dyzean.github.io/Tokyo-Night/addons/monospace-fonts.css"); */
 
-/* Square Avatar, get square avatar on chat memberlist and user area (Disabled by default) */
-/* @import url("https://dyzean.github.io/Tokyo-Night/addons/square-avatar.css"); */
+
+/* Square Avatar, get square avatar on chat memberlist and user area (Disabled by default) 
+@import url("https://dyzean.github.io/Tokyo-Night/addons/square-avatar.css"); */
 
 
 /* ==== Discord Variables ==== */
+
 .theme-dark { /* Dark Mode */
 
   /*  Header Color  */
